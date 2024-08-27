@@ -1,0 +1,15 @@
+{
+  "client_name": "YiffDl-Py",
+  "client_version": "1.2",
+  "dl_base": "./by-artist",
+  "invalid_chars": "<>:\"/\\|?*",
+  "e6": {
+    "username": "YOUR_USER_NAME_HERE",
+    "api_key": "",
+    "blacklist": []
+  },
+  "fa": {
+    "cookie_a": "deadbeef-dead-beef-dead-beefdeadbeef",
+    "cookie_b": "deadbeef-dead-beef-dead-beefdeadbeef"
+  }
+}
