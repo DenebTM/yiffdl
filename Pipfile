@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 yippi = "*"
 faapi = "*"
+requests = "*"
 
 [dev-packages]
 
